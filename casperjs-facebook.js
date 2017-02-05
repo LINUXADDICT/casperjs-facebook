@@ -1,5 +1,6 @@
 /**
  * Developed by Carlos Mario Mejia on 1/25/2017.
+ * https://github.com/LINUXADDICT
  */
 
 var casper = require('casper').create({
