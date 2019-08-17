@@ -13,4 +13,6 @@ The application currently can:
  To Run it
  =========
  
-Use this command on the console: casperjs casperjs-facebook.js  --username=YOUREMAIL --pass=YOURPASSWORD
+Use this command on the console: 
+
+casperjs casperjs-facebook.js  --username=YOURUSERNAME --pass=YOURPASSWORD
